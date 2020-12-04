@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #CBB7FF;
+	margin-left: 10px;
+}
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 30pt;
+	margin-bottom: 10px;
+	color: #302116;
+}
